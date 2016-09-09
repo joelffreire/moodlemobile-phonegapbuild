@@ -3,16 +3,16 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
-        versionCode = "2014"
-        version   = "3.1.2">
-    <name>Moodle Mobile</name>
+        versionCode = "20016"
+        version   = "1.0">
+    <name>Instituto Wallon</name>
 
     <description>
-        Moodle Mobile official app
+        Instituto Wallon
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://bravium.com.br" email="contato@bravium.com.br">
+        Bravium Tecnologia
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
